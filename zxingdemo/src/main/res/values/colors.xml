@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorNavigation">#ffffff</color>
+    <color name="colorPrimary">#f8f8f8</color>
+    <color name="colorPrimaryDark">#5c6bc0</color>
+    <color name="colorWarning">#e51c23</color>
+    <color name="colorUnrepairBumb">#e84e40</color>
+    <color name="colorBumb">#ff9800</color>
+    <color name="colorText">#000000</color>
+    <color name="colorTransparentBackground">#D8EDEEF0</color>
+
+    <color name="colorPrimaryDarkTrans">#737bb5</color>
+    <color name="navigationBarColor">#5c0000</color>
+
+    <!--Login Activity-->
+    <color name="colorEditText">#ffffff</color>
+    <color name="colorShadow">#000000</color>
+    <color name="colorHintText">#ced3ed</color>
+
+    <color name="colorLoginBackground">#295AA5</color>
+
+    <!--Success Scan-->
+    <color name="colorSuccessScanBG">#ffffff</color>
+
+    <color name="device_info_hint">#898989</color>
+
+    <color name="colorAccent">#FF4081</color>
+</resources>

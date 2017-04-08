@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/zbar/build/intermediates/bundles/default/libs/zbar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e671e7a14299d6f2591fc1ae672c49861d3329c6">
+        <dex dex="/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/pre-dexed/debug/zbar_ff6f1f2ac1ee2a6804b9a78b9c19a95edb52fe7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/lib/httpcore-4.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
+        <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/httpcore-4.2.4_8227b156aa7f2d2734f607998eefa1ef5ccabbff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/zxing/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5079e5fd491e9cda6597074c383db035e25e4696">
+        <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/classes_e274d9a89331d3cafa10c9a6f8200fcfaef7bddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/lib/commons-codec-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7f0fc8f61ecadeb3695f0b9464755eee44374d4">
+        <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/commons-codec-1.6_88c63c841900b3f84fb922986bc5cf6bbdf3707d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/zxing/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5079e5fd491e9cda6597074c383db035e25e4696">
+        <dex dex="/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/pre-dexed/debug/classes_7e4b65df4970e02c27e2457c0a8e780cd9c2f083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/lib/httpmime-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
+        <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/httpmime-4.2.5_07dc9c193a5e779fd2b799fdeebb4406c984d892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/lib/fluent-hc-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7eda2ae9f77415cf92651191e2229eae2caf0b61">
+        <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/fluent-hc-4.2.5_b5cf207b14fc10c89655c90ebb94481284f2f12b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/lib/httpclient-4.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1577ae15f01ef5438c5afc62162457c00a34713">
+        <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/httpclient-4.5.3_95df2624fac5d1bca241ea8153c3fd02ca2a2328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/lib/httpclient-cache-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="313cfeb950089985994736aa08885711c56b7e1e">
+        <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/httpclient-cache-4.2.5_52c0960ce0231d6936ab6420ce2e22cded884769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/zbar/build/intermediates/bundles/default/libs/zbar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e671e7a14299d6f2591fc1ae672c49861d3329c6">
+        <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/zbar_0341cf4bf4ab68a1464ce6dfed30c548930a9f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/zbar/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24c1101d64db3de0998b9080f6b2107de0a1f894">
+        <dex dex="/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/pre-dexed/debug/classes_b6c49015d50481dc482892fa8eb5bc59fbec3998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/zbar/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24c1101d64db3de0998b9080f6b2107de0a1f894">
+        <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/classes_ed94486e83425912f842c908d7e2441fbfe0dffa.jar" />
+    </item>
+
+</items>

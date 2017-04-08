@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SCSS城市照明智控云系统</string>
+    <string name="title_activity_cur_map">Map</string>
+    <string name="title_activity_map_test">Map</string>
+
+    <string name="default_address">获取地址中……</string>
+    <string name="title_activity_try_navigation">TryNavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Login Activity-->
+    <string name="username_default">用户名｜User name</string>
+    <string name="password_default">密码｜Password</string>
+
+    <!--Success Scan-->
+    <string name="success_scan_notice">设备信息已获取！</string>
+    <string name="adjust_btn"> 矫正位置</string>
+    <string name="next_btn"> 下一步</string>
+
+    <!--Device Info-->
+    <string name="light_uid">设备码</string>
+    <string name="light_type">设备类型</string>
+    <string name="light_head">灯头号</string>
+    <string name="light_uid_edit">uid</string>
+    <string name="light_head_edit">1</string>
+
+    <!--Location Info-->
+    <string name="lat">经度 XXXXXXXXXX</string>
+    <string name="lng">纬度 XXXXXXXXXX</string>
+    <string name="address">地址 XXXXXXXXXX</string>
+
+    <!--Adjust Location Activity-->
+    <string name="adjust_location">请定位设备位置</string>
+    <string name="cancel_locate_btn"> 取消定位</string>
+    <string name="confirm_locate_btn"> 确认位置</string>
+
+    <!--Photo Activity-->
+    <string name="take_photo_title">请拍摄环境照片</string>
+    <string name="back_btn"> 上一步</string>
+    <string name="confirm_takephoto_btn"> 确认拍照</string>
+
+    <!--Confirm Photo Activity-->
+    <string name="confirm_photo_title"> 请确认照片</string>
+    <string name="take_again_btn"> 重新拍摄</string>
+
+
+    <!--Confirm Upload Activity-->
+    <string name="confirm_upload_title">请确认录入信息！</string>
+    <string name="confirm_upload_btn">确认上传</string>
+
+</resources>

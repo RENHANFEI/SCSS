@@ -1,0 +1,276 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:4:5-49
+	android:versionName
+		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:10:5-111
+MERGED from [zxingdemo:zbar:unspecified] /Users/renhanfei/Desktop/SCSS/zxingdemo/zbar/build/intermediates/bundles/default/AndroidManifest.xml:6:5-8:41
+MERGED from [zxingdemo:zxing:unspecified] /Users/renhanfei/Desktop/SCSS/zxingdemo/zxing/build/intermediates/bundles/default/AndroidManifest.xml:6:5-8:41
+MERGED from [zxingdemo:qrcodecore:unspecified] /Users/renhanfei/Desktop/SCSS/zxingdemo/qrcodecore/build/intermediates/bundles/default/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/renhanfei/.android/build-cache/5e94625065a67dd0b50fcbdd8ef96f794fe61980/output/AndroidManifest.xml:20:5-43
+MERGED from [pub.devrel:easypermissions:0.1.7] /Users/renhanfei/.android/build-cache/1fde2831636eb6908682f6a20405a9117340c9eb/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/renhanfei/.android/build-cache/9b0270c5b6376b0f044914da5c9a3f241ae32cd7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/renhanfei/.android/build-cache/6f74dc0523e59ae1d1ce6f16d4e4fb8134865edb/output/AndroidManifest.xml:21:5-43
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:6:5-9:46
+MERGED from [cn.bingoogolapple:bga-adapter:1.1.8] /Users/renhanfei/.android/build-cache/a0db36c733ab751850e4453e8dbb2d68ab8b3d92/output/AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-qrcodecore:1.1.7] /Users/renhanfei/.android/build-cache/92f25e6099883b7130972f5d7e4b904ff568ff1a/output/AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-zxing:1.1.7] /Users/renhanfei/.android/build-cache/25df55d676be454284cb15b885dd2c9651177070/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/renhanfei/.android/build-cache/39e9e7ed3542b33e65785140b8c65a68e35ca81d/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /Users/renhanfei/.android/build-cache/92662193d6861e199ee7ae4a603cbbc98f56ac7f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/renhanfei/.android/build-cache/d6589503e4d1052bcb36f15d4ffb2ccc63e9c83f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/renhanfei/.android/build-cache/95db7f96d478da08b7943232386aed20bd9cf281/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] /Users/renhanfei/.android/build-cache/96b3d0ddaa8a91e4c3008255b5e10997a1783b04/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/renhanfei/.android/build-cache/eb1d4f3f7a9e74b19d505bdd93e8208149a55e76/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /Users/renhanfei/.android/build-cache/fc897586f36db566f96fcb9fb3c5ed31413600b3/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.1.0] /Users/renhanfei/.android/build-cache/d7646e6046054921258ffa34f32300ce23d02e37/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/renhanfei/.android/build-cache/0cd188862dca494b2237bf08179787fc46a35979/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/renhanfei/.android/build-cache/e9bfd41ec3940c718e0976a5f3ce1041aaaba252/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/renhanfei/.android/build-cache/e18b70258f11dc02253319e7822cb23640e8e3e5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/renhanfei/.android/build-cache/0868ffdeffd0524c93e6606242571f193dafa0f4/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /Users/renhanfei/.android/build-cache/b3d10c8fc981d0695a64c9edd383b6079c63dbd6/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:10:15-108
+	android:targetSdkVersion
+		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:12:5-65
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:12:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:13:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:14:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:15:5-81
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/renhanfei/.android/build-cache/39e9e7ed3542b33e65785140b8c65a68e35ca81d/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/renhanfei/.android/build-cache/39e9e7ed3542b33e65785140b8c65a68e35ca81d/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:17:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:19:5-98
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:19:22-95
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:20:22-76
+application
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:32:5-84:19
+MERGED from [pub.devrel:easypermissions:0.1.7] /Users/renhanfei/.android/build-cache/1fde2831636eb6908682f6a20405a9117340c9eb/output/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/renhanfei/.android/build-cache/9b0270c5b6376b0f044914da5c9a3f241ae32cd7/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/renhanfei/.android/build-cache/6f74dc0523e59ae1d1ce6f16d4e4fb8134865edb/output/AndroidManifest.xml:23:5-20
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:14:5-39:19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/renhanfei/.android/build-cache/39e9e7ed3542b33e65785140b8c65a68e35ca81d/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /Users/renhanfei/.android/build-cache/92662193d6861e199ee7ae4a603cbbc98f56ac7f/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/renhanfei/.android/build-cache/d6589503e4d1052bcb36f15d4ffb2ccc63e9c83f/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/renhanfei/.android/build-cache/95db7f96d478da08b7943232386aed20bd9cf281/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] /Users/renhanfei/.android/build-cache/96b3d0ddaa8a91e4c3008255b5e10997a1783b04/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/renhanfei/.android/build-cache/d7646e6046054921258ffa34f32300ce23d02e37/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/renhanfei/.android/build-cache/0cd188862dca494b2237bf08179787fc46a35979/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/renhanfei/.android/build-cache/e9bfd41ec3940c718e0976a5f3ce1041aaaba252/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/renhanfei/.android/build-cache/e18b70258f11dc02253319e7822cb23640e8e3e5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/renhanfei/.android/build-cache/0868ffdeffd0524c93e6606242571f193dafa0f4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/renhanfei/.android/build-cache/b3d10c8fc981d0695a64c9edd383b6079c63dbd6/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:35:9-41
+	android:allowBackup
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:33:9-35
+	android:icon
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:34:9-43
+	android:theme
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:36:9-40
+activity#cn.bingoogolapple.qrcode.zxingdemo.MainActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:37:9-46:20
+	android:screenOrientation
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:38:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:44:27-74
+activity#cn.bingoogolapple.qrcode.zxingdemo.TestScanActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:47:9-49:52
+	android:screenOrientation
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:48:13-45
+activity#cn.bingoogolapple.qrcode.zxingdemo.TestGeneratectivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:50:9-52:52
+	android:screenOrientation
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:51:13-48
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:61:9-63:55
+	android:value
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:63:13-52
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:62:13-58
+activity#cn.bingoogolapple.qrcode.zxingdemo.CurMapActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:65:9-67:62
+	android:label
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:67:13-59
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:66:13-43
+activity#cn.bingoogolapple.qrcode.zxingdemo.LoginActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:68:9-51
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:68:19-48
+activity#cn.bingoogolapple.qrcode.zxingdemo.ScanActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:69:9-50
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:69:19-47
+activity#cn.bingoogolapple.qrcode.zxingdemo.SuccessScanActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:70:9-57
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:70:19-54
+activity#cn.bingoogolapple.qrcode.zxingdemo.PhotoActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:71:9-51
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:71:19-48
+activity#cn.bingoogolapple.qrcode.zxingdemo.AdjustLocationActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:72:9-60
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:72:19-57
+activity#cn.bingoogolapple.qrcode.zxingdemo.ConfirmPhotoActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:73:9-58
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:73:19-55
+activity#cn.bingoogolapple.qrcode.zxingdemo.ConfirmUploadActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:74:9-59
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:74:19-56
+activity#cn.bingoogolapple.qrcode.zxingdemo.UploadResultActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:75:9-58
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:75:19-55
+activity#cn.bingoogolapple.qrcode.zxingdemo.FailScanActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:76:9-54
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:76:19-51
+activity#cn.bingoogolapple.qrcode.zxingdemo.MenuActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:77:9-50
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:77:19-47
+activity#cn.bingoogolapple.qrcode.zxingdemo.LocalDataActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:78:9-55
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:78:19-52
+activity#cn.bingoogolapple.qrcode.zxingdemo.NavigationMenuActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:79:9-60
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:79:19-57
+activity#cn.bingoogolapple.qrcode.zxingdemo.MaintenanceActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:80:9-57
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:80:19-54
+activity#cn.bingoogolapple.qrcode.zxingdemo.MaintenanceInfoActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:81:9-61
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:81:19-58
+activity#cn.bingoogolapple.qrcode.zxingdemo.ReportRepairActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:82:9-58
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:82:19-55
+activity#cn.bingoogolapple.qrcode.zxingdemo.ScanRepairActivity
+ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:83:9-65
+	android:name
+		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:83:19-53
+activity#cn.bingoogolapple.photopicker.activity.BGAPhotoPreviewActivity
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:17:9-22:63
+	android:screenOrientation
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:20:13-49
+	android:windowSoftInputMode
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:22:13-60
+	android:configChanges
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:19:13-63
+	android:theme
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:21:13-46
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:18:13-90
+activity#cn.bingoogolapple.photopicker.activity.BGAPhotoPickerActivity
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:25:9-30:63
+	android:screenOrientation
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:28:13-49
+	android:windowSoftInputMode
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:30:13-60
+	android:configChanges
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:27:13-63
+	android:theme
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:29:13-46
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:26:13-89
+activity#cn.bingoogolapple.photopicker.activity.BGAPhotoPickerPreviewActivity
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:33:9-38:63
+	android:screenOrientation
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:36:13-49
+	android:windowSoftInputMode
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:38:13-60
+	android:configChanges
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:35:13-63
+	android:theme
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:37:13-46
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:34:13-96
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /Users/renhanfei/.android/build-cache/39e9e7ed3542b33e65785140b8c65a68e35ca81d/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /Users/renhanfei/.android/build-cache/39e9e7ed3542b33e65785140b8c65a68e35ca81d/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /Users/renhanfei/.android/build-cache/39e9e7ed3542b33e65785140b8c65a68e35ca81d/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] /Users/renhanfei/.android/build-cache/95db7f96d478da08b7943232386aed20bd9cf281/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /Users/renhanfei/.android/build-cache/95db7f96d478da08b7943232386aed20bd9cf281/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /Users/renhanfei/.android/build-cache/95db7f96d478da08b7943232386aed20bd9cf281/output/AndroidManifest.xml:20:20-65
