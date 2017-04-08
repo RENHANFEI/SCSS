@@ -1,23 +1,23 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:2:1-86:12
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:2:1-89:12
 	package
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:4:5-49
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:4:5-49
 	android:versionName
-		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
-		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
-		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml
 uses-sdk
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:10:5-111
-MERGED from [zxingdemo:zbar:unspecified] /Users/renhanfei/Desktop/SCSS/zxingdemo/zbar/build/intermediates/bundles/default/AndroidManifest.xml:6:5-8:41
-MERGED from [zxingdemo:zxing:unspecified] /Users/renhanfei/Desktop/SCSS/zxingdemo/zxing/build/intermediates/bundles/default/AndroidManifest.xml:6:5-8:41
-MERGED from [zxingdemo:qrcodecore:unspecified] /Users/renhanfei/Desktop/SCSS/zxingdemo/qrcodecore/build/intermediates/bundles/default/AndroidManifest.xml:6:5-8:41
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:10:5-111
+MERGED from [zxingdemo:zbar:unspecified] /Users/renhanfei/Documents/SCSS/zxingdemo/zbar/build/intermediates/bundles/default/AndroidManifest.xml:6:5-8:41
+MERGED from [zxingdemo:zxing:unspecified] /Users/renhanfei/Documents/SCSS/zxingdemo/zxing/build/intermediates/bundles/default/AndroidManifest.xml:6:5-8:41
+MERGED from [zxingdemo:qrcodecore:unspecified] /Users/renhanfei/Documents/SCSS/zxingdemo/qrcodecore/build/intermediates/bundles/default/AndroidManifest.xml:6:5-8:41
 MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/renhanfei/.android/build-cache/5e94625065a67dd0b50fcbdd8ef96f794fe61980/output/AndroidManifest.xml:20:5-43
 MERGED from [pub.devrel:easypermissions:0.1.7] /Users/renhanfei/.android/build-cache/1fde2831636eb6908682f6a20405a9117340c9eb/output/AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/AndroidManifest.xml:21:5-23:78
@@ -42,51 +42,51 @@ MERGED from [com.android.support:support-core-ui:25.1.0] /Users/renhanfei/.andro
 MERGED from [com.android.support:support-core-utils:25.1.0] /Users/renhanfei/.android/build-cache/0868ffdeffd0524c93e6606242571f193dafa0f4/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.1.0] /Users/renhanfei/.android/build-cache/b3d10c8fc981d0695a64c9edd383b6079c63dbd6/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:10:15-108
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:10:15-108
 	android:targetSdkVersion
-		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
-		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
-		INJECTED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml
 uses-permission#android.permission.CAMERA
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:12:5-65
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:12:5-65
 MERGED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:12:5-65
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:12:22-62
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:12:22-62
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:13:5-66
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:13:5-66
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:13:22-63
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:13:22-63
 uses-permission#android.permission.FLASHLIGHT
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:14:5-69
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:14:5-69
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:14:22-66
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:14:22-66
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:15:5-81
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:15:5-81
 MERGED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:15:22-78
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:15:22-78
 uses-permission#android.permission.INTERNET
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:16:5-67
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:16:5-67
 MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/renhanfei/.android/build-cache/39e9e7ed3542b33e65785140b8c65a68e35ca81d/output/AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:16:22-64
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:16:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:17:5-79
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:17:5-79
 MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/renhanfei/.android/build-cache/39e9e7ed3542b33e65785140b8c65a68e35ca81d/output/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:17:22-76
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:17:22-76
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:19:5-98
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:19:5-98
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:19:22-95
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:19:22-95
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:20:5-79
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:20:22-76
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:20:22-76
 application
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:32:5-84:19
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:32:5-87:19
 MERGED from [pub.devrel:easypermissions:0.1.7] /Users/renhanfei/.android/build-cache/1fde2831636eb6908682f6a20405a9117340c9eb/output/AndroidManifest.xml:12:5-20
 MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/renhanfei/.android/build-cache/9b0270c5b6376b0f044914da5c9a3f241ae32cd7/output/AndroidManifest.xml:22:5-20
@@ -105,119 +105,127 @@ MERGED from [com.android.support:support-core-ui:25.1.0] /Users/renhanfei/.andro
 MERGED from [com.android.support:support-core-utils:25.1.0] /Users/renhanfei/.android/build-cache/0868ffdeffd0524c93e6606242571f193dafa0f4/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.1.0] /Users/renhanfei/.android/build-cache/b3d10c8fc981d0695a64c9edd383b6079c63dbd6/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:35:9-41
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:35:9-41
 	android:allowBackup
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:33:9-35
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:33:9-35
 	android:icon
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:34:9-43
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:34:9-43
 	android:theme
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:36:9-40
-activity#cn.bingoogolapple.qrcode.zxingdemo.MainActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:37:9-46:20
-	android:screenOrientation
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:40:13-49
-	android:label
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:39:13-45
-	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:38:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:41:13-45:29
-action#android.intent.action.MAIN
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:42:17-69
-	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:42:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:44:17-77
-	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:44:27-74
-activity#cn.bingoogolapple.qrcode.zxingdemo.TestScanActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:47:9-49:52
-	android:screenOrientation
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:49:13-49
-	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:48:13-45
-activity#cn.bingoogolapple.qrcode.zxingdemo.TestGeneratectivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:50:9-52:52
-	android:screenOrientation
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:52:13-49
-	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:51:13-48
-meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:61:9-63:55
-	android:value
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:63:13-52
-	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:62:13-58
-activity#cn.bingoogolapple.qrcode.zxingdemo.CurMapActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:65:9-67:62
-	android:label
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:67:13-59
-	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:66:13-43
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:36:9-40
 activity#cn.bingoogolapple.qrcode.zxingdemo.LoginActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:68:9-51
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:37:9-46:20
+	android:screenOrientation
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:39:13-45
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:68:19-48
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:38:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:44:27-74
+activity#cn.bingoogolapple.qrcode.zxingdemo.TestScanActivity
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:47:9-49:52
+	android:screenOrientation
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:48:13-45
+activity#cn.bingoogolapple.qrcode.zxingdemo.TestGeneratectivity
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:50:9-52:52
+	android:screenOrientation
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:51:13-48
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:61:9-63:55
+	android:value
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:63:13-52
+	android:name
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:62:13-58
+activity#cn.bingoogolapple.qrcode.zxingdemo.CurMapActivity
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:65:9-67:62
+	android:label
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:67:13-59
+	android:name
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:66:13-43
 activity#cn.bingoogolapple.qrcode.zxingdemo.ScanActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:69:9-50
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:69:9-50
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:69:19-47
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:69:19-47
 activity#cn.bingoogolapple.qrcode.zxingdemo.SuccessScanActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:70:9-57
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:70:9-57
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:70:19-54
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:70:19-54
 activity#cn.bingoogolapple.qrcode.zxingdemo.PhotoActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:71:9-51
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:71:9-51
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:71:19-48
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:71:19-48
 activity#cn.bingoogolapple.qrcode.zxingdemo.AdjustLocationActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:72:9-60
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:72:9-60
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:72:19-57
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:72:19-57
 activity#cn.bingoogolapple.qrcode.zxingdemo.ConfirmPhotoActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:73:9-58
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:73:9-58
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:73:19-55
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:73:19-55
 activity#cn.bingoogolapple.qrcode.zxingdemo.ConfirmUploadActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:74:9-59
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:74:9-59
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:74:19-56
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:74:19-56
 activity#cn.bingoogolapple.qrcode.zxingdemo.UploadResultActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:75:9-58
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:75:9-58
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:75:19-55
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:75:19-55
 activity#cn.bingoogolapple.qrcode.zxingdemo.FailScanActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:76:9-54
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:76:9-54
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:76:19-51
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:76:19-51
 activity#cn.bingoogolapple.qrcode.zxingdemo.MenuActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:77:9-50
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:77:9-50
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:77:19-47
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:77:19-47
 activity#cn.bingoogolapple.qrcode.zxingdemo.LocalDataActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:78:9-55
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:78:9-55
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:78:19-52
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:78:19-52
 activity#cn.bingoogolapple.qrcode.zxingdemo.NavigationMenuActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:79:9-60
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:79:9-60
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:79:19-57
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:79:19-57
 activity#cn.bingoogolapple.qrcode.zxingdemo.MaintenanceActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:80:9-57
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:80:9-57
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:80:19-54
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:80:19-54
 activity#cn.bingoogolapple.qrcode.zxingdemo.MaintenanceInfoActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:81:9-61
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:81:9-61
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:81:19-58
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:81:19-58
 activity#cn.bingoogolapple.qrcode.zxingdemo.ReportRepairActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:82:9-58
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:82:9-58
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:82:19-55
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:82:19-55
 activity#cn.bingoogolapple.qrcode.zxingdemo.ScanRepairActivity
-ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:83:9-65
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:83:9-56
 	android:name
-		ADDED from /Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/AndroidManifest.xml:83:19-53
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:83:19-53
+activity#cn.bingoogolapple.qrcode.zxingdemo.MaintenancePhotoActivity
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:84:9-62
+	android:name
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:84:19-59
+activity#cn.bingoogolapple.qrcode.zxingdemo.MaintenanceLightActivity
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:85:9-62
+	android:name
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:85:19-59
+activity#cn.bingoogolapple.qrcode.zxingdemo.SuccessReportActivity
+ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:86:9-68
+	android:name
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:86:19-56
 activity#cn.bingoogolapple.photopicker.activity.BGAPhotoPreviewActivity
 ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] /Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/AndroidManifest.xml:17:9-22:63
 	android:screenOrientation

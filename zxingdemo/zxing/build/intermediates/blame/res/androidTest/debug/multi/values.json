@@ -46,5 +46,29 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "/Users/renhanfei/Documents/SCSS/zxingdemo/zxing/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 1942,
+                    "endColumn": 53,
+                    "endOffset": 1991
+                },
+                "from": {
+                    "file": "/Users/renhanfei/Documents/SCSS/zxingdemo/qrcodecore/build/intermediates/bundles/default/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 1942,
+                        "endColumn": 53,
+                        "endOffset": 1991
+                    }
+                }
+            }
+        ]
     }
 ]

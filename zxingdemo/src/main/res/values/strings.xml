@@ -51,4 +51,13 @@
     <string name="confirm_upload_title">请确认录入信息！</string>
     <string name="confirm_upload_btn">确认上传</string>
 
+    <!--Navigation Bar-->
+    <string name="username">修灯泡的</string>
+    <string name="undone_task">待完成任务</string>
+    <string name="add_light">信息录入</string>
+    <string name="fix_breakdown">故障维修</string>
+    <string name="local_data">本地信息管理</string>
+    <string name="report_repair">即时报修</string>
+    <string name="info_overview">信息总览</string>
+
 </resources>

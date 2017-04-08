@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/zbar/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/qrcode_default_scan_line.png",
+        "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/qrcodecore/build/intermediates/bundles/default/res/mipmap-xxhdpi-v4/qrcode_default_scan_line.png"
+    },
+    {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/zbar/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/qrcode_default_scan_line.png",
         "source": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/qrcodecore/build/intermediates/bundles/default/res/mipmap-xxhdpi-v4/qrcode_default_scan_line.png"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/zbar/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/qrcode_default_grid_scan_line.png",
+        "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/qrcodecore/build/intermediates/bundles/default/res/mipmap-xxhdpi-v4/qrcode_default_grid_scan_line.png"
     },
     {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/zbar/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/qrcode_default_grid_scan_line.png",

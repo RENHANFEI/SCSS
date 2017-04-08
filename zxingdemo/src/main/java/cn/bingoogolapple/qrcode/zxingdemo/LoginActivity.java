@@ -1,6 +1,8 @@
 package cn.bingoogolapple.qrcode.zxingdemo;
 
+import android.Manifest;
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -34,9 +36,14 @@ import java.security.NoSuchAlgorithmException;
 import java.text.ParseException;
 import java.util.List;
 
+import pub.devrel.easypermissions.AfterPermissionGranted;
+import pub.devrel.easypermissions.EasyPermissions;
+
 import static java.security.MessageDigest.*;
 
-public class LoginActivity extends Activity {
+public class LoginActivity extends Activity implements EasyPermissions.PermissionCallbacks{
+
+    private static final int REQUEST_CODE_QRCODE_PERMISSIONS = 1;
 
     private String url =
             "http://121.40.34.92:7070/api/json?cmd=login&ctrl=user&version=1&lang=zh_CN";
@@ -90,12 +97,41 @@ public class LoginActivity extends Activity {
 
 //        String user = userText.getText().toString();
 //        String password = passwordText.getText().toString();
-        user = "idi2014";
-        String pwd = "idi123456";
-        password = getMD5(pwd);
+//        user = "idi2014";
+//        String pwd = "idi123456";
+//        password = getMD5(pwd);
+//
+//        new Thread(networkTask).start();
+        Intent myIntent = new Intent(this, CurMapActivity.class);
+        startActivity(myIntent);
 
-        new Thread(networkTask).start();
+    }
 
+    @Override
+    protected void onStart() {
+        super.onStart();
+        requestCodeQRCodePermissions();
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
+        EasyPermissions.onRequestPermissionsResult(requestCode, permissions, grantResults, this);
+    }
+
+    @Override
+    public void onPermissionsGranted(int requestCode, List<String> perms) {
+    }
+
+    @Override
+    public void onPermissionsDenied(int requestCode, List<String> perms) {
+    }
+
+    @AfterPermissionGranted(REQUEST_CODE_QRCODE_PERMISSIONS)
+    private void requestCodeQRCodePermissions() {
+        String[] perms = {Manifest.permission.CAMERA, Manifest.permission.WRITE_EXTERNAL_STORAGE};
+        if (!EasyPermissions.hasPermissions(this, perms)) {
+            EasyPermissions.requestPermissions(this, "扫描二维码需要打开相机和散光灯的权限", REQUEST_CODE_QRCODE_PERMISSIONS, perms);
+        }
     }
 
     public String getMD5(String str) {
@@ -169,6 +205,9 @@ public class LoginActivity extends Activity {
         }
         return axWebSID;
     }
+
+
+
 
 
 }

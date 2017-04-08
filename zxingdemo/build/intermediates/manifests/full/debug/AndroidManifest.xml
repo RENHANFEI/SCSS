@@ -28,7 +28,7 @@
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
          Google Maps Android API v2, but you must specify either coarse or fine
-         location permissions for the 'MyLocation' functionality. 
+         location permissions for the 'MyLocation' functionality.
     -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
@@ -42,7 +42,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="cn.bingoogolapple.qrcode.zxingdemo.MainActivity"
+            android:name="cn.bingoogolapple.qrcode.zxingdemo.LoginActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
             <intent-filter>
@@ -63,7 +63,7 @@
              Note that the API key is linked to the encryption key used to sign the APK.
              You need a different API key for each encryption key, including the release key that is used to
              sign the APK for publishing.
-             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
@@ -72,7 +72,7 @@
         <activity
             android:name="cn.bingoogolapple.qrcode.zxingdemo.CurMapActivity"
             android:label="@string/title_activity_cur_map" />
-        <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.LoginActivity" />
+        <!-- <activity android:name=".LoginActivity" /> -->
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.ScanActivity" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.SuccessScanActivity" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.PhotoActivity" />
@@ -88,6 +88,9 @@
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.MaintenanceInfoActivity" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.ReportRepairActivity" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.ScanRepairActivity" />
+        <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.MaintenancePhotoActivity" />
+        <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.MaintenanceLightActivity" />
+        <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.SuccessReportActivity" />
         <!-- 图片预览界面 -->
         <activity
             android:name="cn.bingoogolapple.photopicker.activity.BGAPhotoPreviewActivity"

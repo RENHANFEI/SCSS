@@ -38,7 +38,8 @@
             android:layout_alignParentBottom="true"
             android:layout_marginLeft="10dp"
             android:layout_toRightOf="@id/photo"
-            android:background="@drawable/icon_change" />
+            android:background="@drawable/icon_change"
+            android:onClick="onClick_takePhoto"/>
     </RelativeLayout>
 
 
@@ -181,7 +182,8 @@
                     android:layout_alignParentBottom="true"
                     android:layout_marginRight="30dp"
                     android:layout_alignParentRight="true"
-                    android:background="@drawable/icon_change" />
+                    android:background="@drawable/icon_change"
+                    android:onClick="onClick_adjust"/>
 
 
 
@@ -203,22 +205,33 @@
         </LinearLayout>
     </LinearLayout>
 
-    <RelativeLayout
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_alignParentBottom="true">
 
         <Button
             android:id="@+id/correct_location"
-            android:layout_width="200dp"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/back_btn"
+            android:onClick="onClick_back"
+            android:text="@string/back_btn"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="18dp"/>
+
+
+        <Button
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_centerHorizontal="true"
             android:layout_weight="1"
             android:background="@drawable/tick_btn"
-            android:onClick="onClick_adjustLocation"
+            android:onClick="onClick_upload"
             android:text="@string/confirm_upload_btn"
             android:textColor="@android:color/white"
-            android:textSize="18dp"/>
-    </RelativeLayout>
+            android:textSize="18dp" />
+    </LinearLayout>
 
 </LinearLayout>

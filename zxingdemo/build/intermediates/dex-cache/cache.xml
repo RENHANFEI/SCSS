@@ -12,12 +12,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/renhanfei/Documents/SCSS/zxingdemo/lib/httpclient-cache-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="313cfeb950089985994736aa08885711c56b7e1e">
+        <dex dex="/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/httpclient-cache-4.2.5_16718fcc27f8f3fe82d8790e466f4e7f52411915.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/lib/httpcore-4.2.4.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
         <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/httpcore-4.2.4_8227b156aa7f2d2734f607998eefa1ef5ccabbff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Documents/SCSS/zxingdemo/lib/httpmime-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
+        <dex dex="/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/httpmime-4.2.5_7e3801e6423b8a33e47c0967c79bb86e2c9fcae5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,12 +48,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/renhanfei/Documents/SCSS/zxingdemo/lib/httpcore-4.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
+        <dex dex="/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/httpcore-4.2.4_8ffcb6a570de5cff2585a473a95092c89a593661.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/lib/commons-codec-1.6.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b7f0fc8f61ecadeb3695f0b9464755eee44374d4">
         <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/commons-codec-1.6_88c63c841900b3f84fb922986bc5cf6bbdf3707d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Documents/SCSS/zxingdemo/zbar/build/intermediates/bundles/default/libs/zbar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e671e7a14299d6f2591fc1ae672c49861d3329c6">
+        <dex dex="/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/zbar_36b93b2b841520636786816fbe14da7327e05377.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,6 +84,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/renhanfei/.android/build-cache/25df55d676be454284cb15b885dd2c9651177070/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5079e5fd491e9cda6597074c383db035e25e4696">
+        <dex dex="/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/classes_e8bd52d504156b0969bb6eb4c66f74bce7d87ee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/lib/httpmime-4.2.5.jar"
         jumboMode="false"
         optimize="true"
@@ -57,12 +102,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/renhanfei/Documents/SCSS/zxingdemo/lib/fluent-hc-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7eda2ae9f77415cf92651191e2229eae2caf0b61">
+        <dex dex="/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/fluent-hc-4.2.5_419df6ec78981706138a882f509fb146b205cb66.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/renhanfei/Desktop/SCSS/zxingdemo/lib/fluent-hc-4.2.5.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="7eda2ae9f77415cf92651191e2229eae2caf0b61">
         <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/fluent-hc-4.2.5_b5cf207b14fc10c89655c90ebb94481284f2f12b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Documents/SCSS/zxingdemo/zbar/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24c1101d64db3de0998b9080f6b2107de0a1f894">
+        <dex dex="/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/classes_81c9ed53aa1853258eab19b36e8bfa78316a7741.jar" />
     </item>
     <item
         is-multidex="false"
@@ -81,6 +144,15 @@
         revision="25.0.2"
         sha1="313cfeb950089985994736aa08885711c56b7e1e">
         <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/httpclient-cache-4.2.5_52c0960ce0231d6936ab6420ce2e22cded884769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Documents/SCSS/zxingdemo/lib/commons-codec-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7f0fc8f61ecadeb3695f0b9464755eee44374d4">
+        <dex dex="/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/commons-codec-1.6_a904b9e10ecd07b45aa70af7f23944a890d72332.jar" />
     </item>
     <item
         is-multidex="false"
@@ -108,6 +180,15 @@
         revision="25.0.2"
         sha1="24c1101d64db3de0998b9080f6b2107de0a1f894">
         <dex dex="/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/classes_ed94486e83425912f842c908d7e2441fbfe0dffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/renhanfei/Documents/SCSS/zxingdemo/lib/httpclient-4.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1577ae15f01ef5438c5afc62162457c00a34713">
+        <dex dex="/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/pre-dexed/debug/httpclient-4.5.3_a2c9bde83821d439a561de76c74a8cf6e79e68f0.jar" />
     </item>
 
 </items>

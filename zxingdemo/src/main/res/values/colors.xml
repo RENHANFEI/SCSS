@@ -21,8 +21,11 @@
 
     <!--Success Scan-->
     <color name="colorSuccessScanBG">#ffffff</color>
-
     <color name="device_info_hint">#898989</color>
-
     <color name="colorAccent">#FF4081</color>
+
+    <!--Navigation-->
+    <color name="colorGray">#8c8c8c</color>
+
+    <color name="transparent">#00FF</color>
 </resources>

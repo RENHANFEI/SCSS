@@ -56,21 +56,21 @@ public final class R {
         public static final int textSize_24 = 0x7f070093;
     }
     public static final class drawable {
-        public static final int bga_adapter_divider_shape = 0x7f020054;
-        public static final int bga_adapter_white_gray = 0x7f020055;
+        public static final int bga_adapter_divider_shape = 0x7f020055;
+        public static final int bga_adapter_white_gray = 0x7f020056;
     }
     public static final class id {
         public static final int dataBinding = 0x7f0b0005;
-        public static final int iv_bga_adapter_empty_view_icon = 0x7f0b008b;
-        public static final int ll_bga_adapter_empty_view_root = 0x7f0b008a;
+        public static final int iv_bga_adapter_empty_view_icon = 0x7f0b008c;
+        public static final int ll_bga_adapter_empty_view_root = 0x7f0b008b;
         public static final int onAttachStateChangeListener = 0x7f0b0008;
         public static final int onDateChanged = 0x7f0b0009;
         public static final int textWatcher = 0x7f0b000d;
-        public static final int tv_bga_adapter_empty_view_msg = 0x7f0b008c;
+        public static final int tv_bga_adapter_empty_view_msg = 0x7f0b008d;
     }
     public static final class layout {
-        public static final int bga_adapter_empty_view = 0x7f04002f;
-        public static final int bga_adapter_item_databinding_dummy = 0x7f040030;
+        public static final int bga_adapter_empty_view = 0x7f040032;
+        public static final int bga_adapter_item_databinding_dummy = 0x7f040033;
     }
     public static final class mipmap {
         public static final int bga_adapter_divider_bitmap = 0x7f030000;

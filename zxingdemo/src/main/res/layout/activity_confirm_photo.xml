@@ -57,7 +57,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@drawable/switch_btn"
-                android:onClick="onClick_adjustLocation"
+                android:onClick="onClick_back"
                 android:text="@string/take_again_btn"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="18dp"/>
@@ -68,7 +68,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@drawable/tick_btn"
-                android:onClick="onClick_nextStep"
+                android:onClick="onClick_confirm"
                 android:text="@string/next_btn"
                 android:textColor="@android:color/white"
                 android:textSize="18dp"/>

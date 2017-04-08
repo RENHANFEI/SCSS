@@ -1,23 +1,11 @@
 [
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
         "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
@@ -28,59 +16,23 @@
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_default.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
         "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
-        "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/color/common_google_signin_btn_tint.xml"
-    },
-    {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_edittext.xml"
     },
     {
@@ -100,14 +52,6 @@
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/color/common_google_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
         "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/color/common_google_signin_btn_text_dark.xml"
     },
@@ -116,8 +60,160 @@
         "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/color/common_google_signin_btn_text_light.xml"
     },
     {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
@@ -126,6 +222,10 @@
     {
         "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
@@ -148,39 +248,31 @@
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_btn_colored_text_material.xml"
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_material_light.xml"
     },
     {
         "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_edittext.xml"
     },
     {
         "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/switch_thumb_material_dark.xml"
     },
     {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_tint_default.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/color/common_google_signin_btn_text_light.xml"
     }
 ]

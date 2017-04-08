@@ -236,7 +236,11 @@ public class CurMapActivity extends FragmentActivity implements
     }
 
     public void onClick_menu(View view) {
+        Intent intent = new Intent(this, NavigationMenuActivity.class);
+        startActivity(intent);
 
+        //参数一是下一个Activity的进入动画，参数二是当前Activity的退出动画
+        //overridePendingTransition(R.anim.left_right_in);
     }
 
     public void onClick_signal(View view) {
@@ -245,6 +249,7 @@ public class CurMapActivity extends FragmentActivity implements
 
     public void onClick_scanQRCode(View view) {
         Intent myIntent = new Intent(this, TestScanActivity.class);
+//        Intent myIntent = new Intent(this, AdjustLocationActivity.class);
         startActivity(myIntent);
     }
 

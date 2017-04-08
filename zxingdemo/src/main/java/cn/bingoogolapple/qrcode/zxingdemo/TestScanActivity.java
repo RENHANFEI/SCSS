@@ -25,8 +25,8 @@ public class TestScanActivity extends AppCompatActivity implements QRCodeView.De
     private QRCodeView mQRCodeView;
 
     public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
+        super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test_scan);
         setSupportActionBar((Toolbar) findViewById(R.id.toolbar));
 
@@ -35,7 +35,7 @@ public class TestScanActivity extends AppCompatActivity implements QRCodeView.De
 
         // 直接开始扫描
         mQRCodeView.startSpot();
-        //mQRCodeView.changeToScanBarcodeStyle();
+        mQRCodeView.changeToScanBarcodeStyle();
     }
 
     @Override
@@ -69,10 +69,13 @@ public class TestScanActivity extends AppCompatActivity implements QRCodeView.De
         Log.i(TAG, "result:" + result);
         Toast.makeText(this, result, Toast.LENGTH_SHORT).show();
         vibrate();
-        Intent myIntent = new Intent(TestScanActivity.this, SuccessScanActivity.class);
+        Intent myIntent = new Intent(this, SuccessScanActivity.class);
+        myIntent.putExtra("scan_result", result);
         startActivity(myIntent);
-        mQRCodeView.startSpot();
+        //mQRCodeView.startSpot();
     }
+
+
 
     @Override
     public void onScanQRCodeOpenCameraError() {
