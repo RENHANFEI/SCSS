@@ -4,11 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorTransparentBackground"
+    android:background="@color/transparent"
     android:orientation="vertical"
     tools:context="cn.bingoogolapple.qrcode.zxingdemo.PhotoActivity">
 
     <LinearLayout
+        android:id="@+id/bottom"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
@@ -74,5 +75,13 @@
         </LinearLayout>
 
     </LinearLayout>
+
+    <cn.bingoogolapple.qrcode.zxingdemo.CameraSurfaceView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@id/bottom"
+        android:layout_toLeftOf="@id/bottom"
+        android:id="@+id/preview"/>
 
 </RelativeLayout>

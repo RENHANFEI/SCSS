@@ -69,9 +69,14 @@ public class TestScanActivity extends AppCompatActivity implements QRCodeView.De
         Log.i(TAG, "result:" + result);
         Toast.makeText(this, result, Toast.LENGTH_SHORT).show();
         vibrate();
+
+        mQRCodeView.stopSpot();
+        mQRCodeView.stopCamera();
+
         Intent myIntent = new Intent(this, SuccessScanActivity.class);
         myIntent.putExtra("scan_result", result);
         startActivity(myIntent);
+        overridePendingTransition(R.anim.bottom_in,0);
         //mQRCodeView.startSpot();
     }
 

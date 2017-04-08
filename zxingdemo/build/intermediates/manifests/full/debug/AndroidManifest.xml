@@ -24,6 +24,10 @@
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
 
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
@@ -74,9 +78,15 @@
             android:label="@string/title_activity_cur_map" />
         <!-- <activity android:name=".LoginActivity" /> -->
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.ScanActivity" />
-        <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.SuccessScanActivity" />
+        <activity
+            android:name="cn.bingoogolapple.qrcode.zxingdemo.SuccessScanActivity"
+            android:theme="@style/AppTheme.Transparent" />
+/>
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.PhotoActivity" />
-        <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.AdjustLocationActivity" />
+        <activity
+            android:name="cn.bingoogolapple.qrcode.zxingdemo.AdjustLocationActivity"
+            android:theme="@style/AppTheme.Transparent" />
+/>
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.ConfirmPhotoActivity" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.ConfirmUploadActivity" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.UploadResultActivity" />

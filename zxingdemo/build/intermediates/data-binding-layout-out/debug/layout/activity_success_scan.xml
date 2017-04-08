@@ -1,17 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorTransparentBackground"
+    android:background="@color/transparent"
     android:orientation="vertical"
     tools:context="cn.bingoogolapple.qrcode.zxingdemo.SuccessScanActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="140dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/cur_address"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/colorPrimary"
+                android:gravity="center"
+                android:text="@string/default_address"
+                android:textColor="@color/colorText"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/menu_btn"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/icon_menu"
+                android:onClick="onClick_menu" />
+
+            <Button
+                android:id="@+id/signal_btn"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/icon_signal"
+                android:onClick="onClick_signal" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toLeftOf="@id/signal_btn"
+                android:layout_toStartOf="@id/signal_btn"
+                android:src="@drawable/vertical_gray_line" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@id/menu_btn"
+                android:layout_toRightOf="@id/menu_btn"
+                android:src="@drawable/vertical_gray_line" />
+
+        </RelativeLayout>
+
+
+        <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:map="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9"
+            tools:context="cn.bingoogolapple.qrcode.zxingdemo.SuccessScanActivity" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="240dp"
         android:background="@android:color/white"
         android:orientation="vertical">
 
@@ -48,7 +118,7 @@
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginTop="20dp"
-            android:layout_weight="1"
+            android:layout_weight="3"
             android:orientation="vertical">
 
             <LinearLayout
@@ -63,7 +133,7 @@
                     android:layout_weight="1"
                     android:text="@string/light_type"
                     android:textColor="@android:color/black"
-                    android:textSize="16dp" />
+                    android:textSize="14dp" />
 
                 <Spinner
                     android:id="@+id/light_type"
@@ -71,7 +141,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:textColor="@android:color/black"
-                    android:textSize="16dp"></Spinner>
+                    android:textSize="12dp"></Spinner>
 
             </LinearLayout>
 
@@ -87,7 +157,7 @@
                     android:layout_weight="1"
                     android:text="@string/light_uid"
                     android:textColor="@android:color/black"
-                    android:textSize="16dp" />
+                    android:textSize="14dp" />
 
                 <EditText
                     android:id="@+id/uid"
@@ -97,7 +167,7 @@
                     android:maxLines="1"
                     android:text="@string/light_uid_edit"
                     android:textColor="@android:color/black"
-                    android:textSize="16dp" />
+                    android:textSize="12dp" />
 
             </LinearLayout>
 
@@ -113,7 +183,7 @@
                     android:layout_weight="1"
                     android:text="@string/light_head"
                     android:textColor="@android:color/black"
-                    android:textSize="16dp" />
+                    android:textSize="14dp" />
 
                 <EditText
                     android:id="@+id/light_head"
@@ -123,7 +193,7 @@
                     android:maxLines="1"
                     android:text="@string/light_head_edit"
                     android:textColor="@android:color/black"
-                    android:textSize="16dp" />
+                    android:textSize="12dp" />
 
             </LinearLayout>
         </LinearLayout>
@@ -131,14 +201,17 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="15dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
             android:src="@drawable/gray_line" />
 
         <!--Location-->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="1"
+            android:layout_weight="2"
             android:orientation="vertical">
 
             <TextView
@@ -150,7 +223,7 @@
                 android:layout_weight="1"
                 android:text="@string/lat"
                 android:textColor="@android:color/black"
-                android:textSize="16dp" />
+                android:textSize="14dp" />
 
             <TextView
                 android:id="@+id/lng_view"
@@ -161,7 +234,7 @@
                 android:layout_weight="1"
                 android:text="@string/lng"
                 android:textColor="@android:color/black"
-                android:textSize="16dp" />
+                android:textSize="14dp" />
 
             <TextView
                 android:id="@+id/address_view"
@@ -172,7 +245,7 @@
                 android:layout_weight="1"
                 android:text="@string/address"
                 android:textColor="@android:color/black"
-                android:textSize="16dp" />
+                android:textSize="14dp" />
 
         </LinearLayout>
 
@@ -182,7 +255,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_alignParentBottom="true"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="10dp"
             android:orientation="horizontal">
 
             <Button
@@ -194,7 +267,7 @@
                 android:onClick="onClick_adjustLocation"
                 android:text="@string/adjust_btn"
                 android:textColor="@color/colorPrimaryDark"
-                android:textSize="18dp"/>
+                android:textSize="18dp" />
 
             <Button
                 android:id="@+id/next_step"
@@ -205,11 +278,11 @@
                 android:onClick="onClick_nextStep"
                 android:text="@string/next_btn"
                 android:textColor="@android:color/white"
-                android:textSize="18dp"/>
+                android:textSize="18dp" />
         </LinearLayout>
 
 
     </LinearLayout>
 
 
-</LinearLayout>
+</RelativeLayout>

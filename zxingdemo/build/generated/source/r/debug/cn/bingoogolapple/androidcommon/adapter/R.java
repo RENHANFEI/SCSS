@@ -61,12 +61,12 @@ public final class R {
     }
     public static final class id {
         public static final int dataBinding = 0x7f0b0005;
-        public static final int iv_bga_adapter_empty_view_icon = 0x7f0b0095;
-        public static final int ll_bga_adapter_empty_view_root = 0x7f0b0094;
+        public static final int iv_bga_adapter_empty_view_icon = 0x7f0b0096;
+        public static final int ll_bga_adapter_empty_view_root = 0x7f0b0095;
         public static final int onAttachStateChangeListener = 0x7f0b0008;
         public static final int onDateChanged = 0x7f0b0009;
         public static final int textWatcher = 0x7f0b000d;
-        public static final int tv_bga_adapter_empty_view_msg = 0x7f0b0096;
+        public static final int tv_bga_adapter_empty_view_msg = 0x7f0b0097;
     }
     public static final class layout {
         public static final int bga_adapter_empty_view = 0x7f040033;

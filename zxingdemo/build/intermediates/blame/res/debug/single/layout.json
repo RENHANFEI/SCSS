@@ -44,16 +44,16 @@
         "source": "/Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/res/layout/activity_confirm_upload.xml"
     },
     {
-        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/layout/view_control.xml",
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/layout/view_control.xml"
     },
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
@@ -72,12 +72,12 @@
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/layout/bga_pp_al_photo_picker.xml",
-        "source": "/Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/res/layout/bga_pp_al_photo_picker.xml"
-    },
-    {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/layout/bga_pp_item_nine_photo.xml",
         "source": "/Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/res/layout/bga_pp_item_nine_photo.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/layout/bga_pp_al_photo_picker.xml",
+        "source": "/Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/res/layout/bga_pp_al_photo_picker.xml"
     },
     {
         "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/layout/activity_photo.xml",
@@ -120,12 +120,12 @@
         "source": "/Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/res/layout/bga_pp_item_photo_camera.xml"
     },
     {
-        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/layout/abc_popup_menu_header_item_layout.xml"
-    },
-    {
         "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/layout/bga_adapter_empty_view.xml",
         "source": "/Users/renhanfei/.android/build-cache/a0db36c733ab751850e4453e8dbb2d68ab8b3d92/output/res/layout/bga_adapter_empty_view.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/layout/bga_pp_toolbar_viewstub.xml",

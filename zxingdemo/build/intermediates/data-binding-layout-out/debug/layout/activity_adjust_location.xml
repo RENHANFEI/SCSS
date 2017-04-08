@@ -1,17 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorTransparentBackground"
+    android:background="@color/transparent"
     android:orientation="vertical"
     tools:context="cn.bingoogolapple.qrcode.zxingdemo.AdjustLocationActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/cur_address"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/colorPrimary"
+                android:gravity="center"
+                android:text="@string/default_address"
+                android:textColor="@color/colorText"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/menu_btn"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/icon_menu"
+                android:onClick="onClick_menu" />
+
+            <Button
+                android:id="@+id/signal_btn"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/icon_signal"
+                android:onClick="onClick_signal" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toLeftOf="@id/signal_btn"
+                android:layout_toStartOf="@id/signal_btn"
+                android:src="@drawable/vertical_gray_line" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@id/menu_btn"
+                android:layout_toRightOf="@id/menu_btn"
+                android:src="@drawable/vertical_gray_line" />
+
+        </RelativeLayout>
+
+
+        <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:map="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9"
+            tools:context="cn.bingoogolapple.qrcode.zxingdemo.AdjustLocationActivity" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_marginTop="360dp"
+        android:layout_alignParentTop="true"
         android:background="@android:color/white"
         android:orientation="vertical">
 
@@ -116,4 +185,4 @@
     </LinearLayout>
 
 
-</LinearLayout>
+</RelativeLayout>
