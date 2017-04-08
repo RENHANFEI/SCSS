@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/bga_adapter_white_gray.xml",
-        "source": "/Users/renhanfei/.android/build-cache/a0db36c733ab751850e4453e8dbb2d68ab8b3d92/output/res/drawable/bga_adapter_white_gray.xml"
-    },
-    {
         "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/scan_success_next.jpg",
         "source": "/Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/res/drawable/scan_success_next.jpg"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/bga_adapter_white_gray.xml",
+        "source": "/Users/renhanfei/.android/build-cache/a0db36c733ab751850e4453e8dbb2d68ab8b3d92/output/res/drawable/bga_adapter_white_gray.xml"
     },
     {
         "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/bga_pp_rotate_progress_bar.xml",
@@ -40,12 +40,12 @@
         "source": "/Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/res/drawable/icon_signal.png"
     },
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/drawable/bga_pp_shape_photo_folder_pw_bg.xml",
-        "source": "/Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/res/drawable/bga_pp_shape_photo_folder_pw_bg.xml"
-    },
-    {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/drawable/bga_pp_shape_photo_folder_pw_bg.xml",
+        "source": "/Users/renhanfei/.android/build-cache/6892ae84a7802d2ac3a89e2deb38f33df9992990/output/res/drawable/bga_pp_shape_photo_folder_pw_bg.xml"
     },
     {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/drawable/pin_btn.png",
@@ -84,16 +84,16 @@
         "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/report_scan_success.png",
+        "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/drawable/report_scan_success.png"
     },
     {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/icon_signal.png",
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/drawable/icon_signal.png"
     },
     {
-        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/report_scan_success.png",
-        "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/drawable/report_scan_success.png"
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/tick_btn.png",
@@ -128,12 +128,12 @@
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/drawable/maintanence_info.png"
     },
     {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
-        "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/renhanfei/.android/build-cache/a1b0b770246a43fcd3a20a37de368636c8e9fd96/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
@@ -650,6 +650,10 @@
     {
         "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/back_btn.png",
         "source": "/Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/res/drawable/back_btn.png"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable/vertical_gray_line.png",
+        "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/drawable/vertical_gray_line.png"
     },
     {
         "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/drawable/icon_locate.png",

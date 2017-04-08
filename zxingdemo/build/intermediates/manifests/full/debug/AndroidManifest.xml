@@ -83,7 +83,9 @@
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.FailScanActivity" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.MenuActivity" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.LocalDataActivity" />
-        <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.NavigationMenuActivity" />
+        <activity
+            android:name="cn.bingoogolapple.qrcode.zxingdemo.NavigationMenuActivity"
+            android:theme="@style/AppTheme.Transparent" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.MaintenanceActivity" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.MaintenanceInfoActivity" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.ReportRepairActivity" />
@@ -91,6 +93,7 @@
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.MaintenancePhotoActivity" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.MaintenanceLightActivity" />
         <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.SuccessReportActivity" />
+        <activity android:name="cn.bingoogolapple.qrcode.zxingdemo.TryNavigationBar" />
         <!-- 图片预览界面 -->
         <activity
             android:name="cn.bingoogolapple.photopicker.activity.BGAPhotoPreviewActivity"

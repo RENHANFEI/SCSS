@@ -14,7 +14,13 @@ public class NavigationMenuActivity extends Activity {
     }
 
     public void onClick_close(View v){
+        Intent myIntent = new Intent(this, LoginActivity.class);
+        startActivity(myIntent);
+    }
+
+    public void onClick_back(View v){
         finish();
+        overridePendingTransition(0,R.anim.left_right_out);
     }
 
     public void onClick_add(View v) {

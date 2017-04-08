@@ -76,14 +76,16 @@
         <activity android:name=".FailScanActivity" />
         <activity android:name=".MenuActivity" />
         <activity android:name=".LocalDataActivity" />
-        <activity android:name=".NavigationMenuActivity" />
+        <activity android:name=".NavigationMenuActivity"
+            android:theme="@style/AppTheme.Transparent"/>
         <activity android:name=".MaintenanceActivity" />
         <activity android:name=".MaintenanceInfoActivity" />
         <activity android:name=".ReportRepairActivity" />
         <activity android:name=".ScanRepairActivity" />
         <activity android:name=".MaintenancePhotoActivity" />
         <activity android:name=".MaintenanceLightActivity" />
-        <activity android:name=".SuccessReportActivity"></activity>
+        <activity android:name=".SuccessReportActivity" />
+        <activity android:name=".TryNavigationBar"></activity>
     </application>
 
 </manifest>

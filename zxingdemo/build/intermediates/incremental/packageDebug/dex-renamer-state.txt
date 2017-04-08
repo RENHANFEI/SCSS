@@ -1,4 +1,4 @@
-#Sat Apr 08 17:31:24 SGT 2017
+#Sat Apr 08 19:40:44 SGT 2017
 base.0=/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

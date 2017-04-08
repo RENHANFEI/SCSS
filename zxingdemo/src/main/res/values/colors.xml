@@ -27,5 +27,6 @@
     <!--Navigation-->
     <color name="colorGray">#8c8c8c</color>
 
-    <color name="transparent">#00FF</color>
+    <color name="transparent">#01FFFFFF</color>
+    <color name="colorGrayTransparent">#88222222</color>
 </resources>

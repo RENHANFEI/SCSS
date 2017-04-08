@@ -240,7 +240,7 @@ public class CurMapActivity extends FragmentActivity implements
         startActivity(intent);
 
         //参数一是下一个Activity的进入动画，参数二是当前Activity的退出动画
-        //overridePendingTransition(R.anim.left_right_in);
+        overridePendingTransition(R.anim.left_right_in,0);
     }
 
     public void onClick_signal(View view) {

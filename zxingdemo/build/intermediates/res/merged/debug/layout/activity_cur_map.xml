@@ -37,6 +37,20 @@
             android:background="@drawable/icon_signal"
             android:onClick="onClick_signal" />
 
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/vertical_gray_line"
+            android:layout_toLeftOf="@id/signal_btn"
+            android:layout_toStartOf="@id/signal_btn"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/vertical_gray_line"
+            android:layout_toRightOf="@id/menu_btn"
+            android:layout_toEndOf="@id/menu_btn"/>
+
     </RelativeLayout>
 
     <RelativeLayout

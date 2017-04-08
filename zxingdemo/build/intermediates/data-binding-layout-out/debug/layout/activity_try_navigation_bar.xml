@@ -1,0 +1,100 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/colorTransparentBackground"
+    android:paddingLeft="60dp"
+    android:paddingRight="60dp">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@color/colorPrimary"
+        android:paddingBottom="18dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="18dp"
+        android:paddingTop="18dp">
+
+
+        <Button
+            android:id="@+id/exit"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true" />
+
+        <EditText
+            android:id="@+id/taskname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/exit"
+            android:layout_marginBottom="2dp"
+            android:layout_toLeftOf="@+id/ddl_h"
+            android:layout_toStartOf="@+id/ddl_h"
+            android:hint="TASKNAME"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="24dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/deadline_title"
+            android:layout_below="@id/taskname"
+            android:text="Deadline" />
+
+        <Spinner
+            android:id="@+id/ddl_y"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/deadline_title"
+            android:calendarViewShown="false"
+            android:spinnerMode="dropdown"
+            android:textColor="@color/colorPrimaryDark" />
+
+
+        <Spinner
+            android:id="@+id/ddl_m"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/deadline_title"
+            android:layout_toRightOf="@id/ddl_y"
+            android:calendarViewShown="false"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <Spinner
+            android:id="@+id/ddl_d"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/deadline_title"
+            android:layout_toRightOf="@id/ddl_m"
+            android:calendarViewShown="false"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <Spinner
+            android:id="@+id/ddl_h"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/deadline_title"
+            android:layout_below="@id/ddl_y"
+            android:calendarViewShown="false"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <Spinner
+            android:id="@+id/ddl_mm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ddl_y"
+            android:layout_toRightOf="@id/ddl_h"
+            android:calendarViewShown="true"
+            android:textColor="@color/colorPrimaryDark" />
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
