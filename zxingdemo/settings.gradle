@@ -1,1 +1,1 @@
-include ':qrcodecore', ':zbar', ':zxing'
+include ':qrcodecore', ':zbar', ':zxing','uidScanner'

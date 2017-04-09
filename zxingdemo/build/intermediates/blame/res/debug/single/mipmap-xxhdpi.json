@@ -8,18 +8,6 @@
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/holder.png"
     },
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/custom_scan_line.png",
-        "source": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/src/main/res/mipmap-xxhdpi/custom_scan_line.png"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/custom_scan_line.png",
-        "source": "/Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/custom_scan_line.png"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/logo.png",
-        "source": "/Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/logo.png"
-    },
-    {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/test_isbn.png",
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/test_isbn.png"
     },
@@ -28,47 +16,11 @@
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/logo.png"
     },
     {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
-        "source": "/Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/logo.png",
-        "source": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/src/main/res/mipmap-xxhdpi/logo.png"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/holder.png",
-        "source": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/src/main/res/mipmap-xxhdpi/holder.png"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/custom_grid_scan_line.png",
-        "source": "/Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/custom_grid_scan_line.png"
-    },
-    {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/custom_grid_scan_line.png",
-        "source": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/src/main/res/mipmap-xxhdpi/custom_grid_scan_line.png"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/test_isbn.png",
-        "source": "/Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/test_isbn.png"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/holder.png",
-        "source": "/Users/renhanfei/Desktop/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/holder.png"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/test_isbn.png",
-        "source": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/src/main/res/mipmap-xxhdpi/test_isbn.png"
-    },
-    {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/custom_scan_line.png",
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/custom_scan_line.png"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
-        "source": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]

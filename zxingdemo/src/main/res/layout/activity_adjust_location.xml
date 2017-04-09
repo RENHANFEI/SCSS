@@ -79,8 +79,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="360dp"
         android:layout_alignParentTop="true"
+        android:layout_marginTop="360dp"
         android:background="@android:color/white"
         android:orientation="vertical">
 
@@ -115,10 +115,10 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="1"
-            android:orientation="vertical"
             android:layout_marginLeft="20dp"
-            android:layout_marginRight="20dp">
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -126,6 +126,7 @@
                 android:layout_weight="1">
 
                 <TextView
+                    android:id="@+id/lng_view"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_centerVertical="true"
@@ -142,10 +143,26 @@
                 android:layout_weight="1">
 
                 <TextView
+                    android:id="@+id/lat_view"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_centerVertical="true"
                     android:text="@string/lng"
+                    android:textColor="@android:color/black"
+                    android:textSize="16dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/address_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="@string/address"
                     android:textColor="@android:color/black"
                     android:textSize="16dp" />
             </RelativeLayout>
@@ -156,7 +173,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_alignParentBottom="true"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="10dp"
             android:orientation="horizontal">
 
             <Button
@@ -168,7 +185,7 @@
                 android:onClick="onClick_cancel"
                 android:text="@string/cancel_locate_btn"
                 android:textColor="@color/colorPrimaryDark"
-                android:textSize="18dp"/>
+                android:textSize="18dp" />
 
             <Button
                 android:id="@+id/next_step"
@@ -179,7 +196,7 @@
                 android:onClick="onClick_confirm"
                 android:text="@string/confirm_locate_btn"
                 android:textColor="@android:color/white"
-                android:textSize="18dp"/>
+                android:textSize="18dp" />
         </LinearLayout>
 
     </LinearLayout>

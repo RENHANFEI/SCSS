@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/qrcodecore/qrcodecore.iml" filepath="$PROJECT_DIR$/qrcodecore/qrcodecore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uidScanner/uidScanner.iml" filepath="$PROJECT_DIR$/uidScanner/uidScanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/zbar/zbar.iml" filepath="$PROJECT_DIR$/zbar/zbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/zxing/zxing.iml" filepath="$PROJECT_DIR$/zxing/zxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/zxingdemo.iml" filepath="$PROJECT_DIR$/zxingdemo.iml" />

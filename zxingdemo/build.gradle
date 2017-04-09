@@ -62,6 +62,7 @@ android {
 
 
 
+
 dependencies {
     // -------------------- 以下几个库是为了方便编写演示案例添加进来的，集成到你自己项目时可以不依赖这些库 --------------------
     // -------------------- 以上几个库是为了方便编写演示案例添加进来的，集成到你自己项目时可以不依赖这些库 --------------------
@@ -89,4 +90,6 @@ dependencies {
     compile 'com.google.android.gms:play-services-maps:10.2.1'
     compile 'com.google.android.gms:play-services-location:10.2.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.0-beta3'
+    compile 'com.android.support:support-v4:25.3.1'
+    compile project(':uidScanner')
 }

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="concentrator_type">
+        <item>RTU200</item>
+        <item>RTU100</item>
+    </string-array>
+
+    <string-array name="lamp_cap">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="terminal_type">
+        <item>LCU12</item>
+        <item>LCU22</item>
+    </string-array>
+
+    <string-array name="lamp_type">
+        <item>HPS100W</item>
+        <item>HPS200W</item>
+    </string-array>
+</resources>

@@ -38,7 +38,51 @@
 
     <uses-feature
         android:glEsVersion="0x00020000"
-        android:required="true" />
+        android:required="true" /> <!-- <uses-permission android:name="android.permission.CAMERA" /> -->
+    <!-- <uses-permission android:name="android.permission.FLASHLIGHT" /> -->
+    <!-- <uses-feature android:name="android.hardware.camera" /> -->
+    <!-- <uses-feature android:name="android.hardware.camera.autofocus" /> -->
+    <!-- <uses-permission android:name="android.permission.VIBRATE" /> -->
+    <!-- <uses-permission android:name="android.permission.WAKE_LOCK" /> -->
+    <!-- <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> -->
+    <!-- <uses-permission android:name="android.permission.INTERNET" /> -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> -->
+    <!-- <application -->
+    <activity
+        android:name="cn.fdzk.uidscanner.activity.WelcomeActivity"
+        android:screenOrientation="portrait"
+        android:theme="@style/AppTheme.FullScreen" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity> <!-- <activity -->
+    <!-- android:name=".activity.LoginActivity" -->
+    <!-- android:label="@string/title_activity_login" -->
+    <!-- android:screenOrientation="portrait" /> -->
+    <activity
+        android:name="cn.fdzk.uidscanner.activity.MainActivity"
+        android:label="@string/title_activity_project_list"
+        android:screenOrientation="portrait" />
+    <activity
+        android:name="cn.fdzk.uidscanner.activity.EditConcentratorActivity"
+        android:configChanges="keyboardHidden|orientation"
+        android:label="@string/title_edit_concentrator"
+        android:screenOrientation="portrait"
+        android:windowSoftInputMode="stateHidden" />
+    <activity
+        android:name="cn.fdzk.uidscanner.activity.EditTerminalAcitivy"
+        android:configChanges="keyboardHidden|orientation"
+        android:label="@string/title_edit_terminal"
+        android:screenOrientation="portrait"
+        android:windowSoftInputMode="stateHidden" >
+    </activity>
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
 
     <application
         android:allowBackup="true"

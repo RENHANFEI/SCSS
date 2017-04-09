@@ -60,7 +60,7 @@
                 android:onClick="onClick_back"
                 android:text="@string/back_btn"
                 android:textColor="@color/colorPrimaryDark"
-                android:textSize="18dp"/>
+                android:textSize="18dp" />
 
             <Button
                 android:id="@+id/next_step"
@@ -71,17 +71,17 @@
                 android:onClick="onClick_take"
                 android:text="@string/confirm_takephoto_btn"
                 android:textColor="@android:color/white"
-                android:textSize="18dp"/>
+                android:textSize="18dp" />
         </LinearLayout>
 
     </LinearLayout>
 
-    <cn.bingoogolapple.qrcode.zxingdemo.CameraSurfaceView
+    <FrameLayout
+        android:id="@+id/preview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_alignParentTop="true"
-        android:layout_toStartOf="@id/bottom"
         android:layout_toLeftOf="@id/bottom"
-        android:id="@+id/preview"/>
+        android:layout_toStartOf="@id/bottom" />
 
 </RelativeLayout>

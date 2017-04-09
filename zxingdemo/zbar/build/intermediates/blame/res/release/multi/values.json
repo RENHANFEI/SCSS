@@ -1,53 +1,5 @@
 [
     {
-        "outputFile": "/Users/renhanfei/Desktop/SCSS/zxingdemo/zbar/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 1942,
-                    "endColumn": 53,
-                    "endOffset": 1991
-                },
-                "from": {
-                    "file": "/Users/renhanfei/Desktop/SCSS/zxingdemo/qrcodecore/build/intermediates/bundles/default/res/values/values.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 1942,
-                        "endColumn": 53,
-                        "endOffset": 1991
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/zbar/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 1942,
-                    "endColumn": 53,
-                    "endOffset": 1991
-                },
-                "from": {
-                    "file": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/qrcodecore/build/intermediates/bundles/default/res/values/values.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 1942,
-                        "endColumn": 53,
-                        "endOffset": 1991
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Users/renhanfei/Documents/SCSS/zxingdemo/zbar/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
         "map": [
             {

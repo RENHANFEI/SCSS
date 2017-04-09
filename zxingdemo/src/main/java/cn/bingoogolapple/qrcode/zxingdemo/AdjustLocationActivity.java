@@ -48,6 +48,13 @@ public class AdjustLocationActivity extends FragmentActivity implements
 
     String geoAddress;
     String lat, lng;
+    String uid;
+    String lightHead;
+    String deviceType;
+
+    TextView latView;
+    TextView lngView;
+    TextView addView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -76,10 +83,30 @@ public class AdjustLocationActivity extends FragmentActivity implements
                     .addApi(LocationServices.API)
                     .build();
         }
+
+        // get extra
+        Intent myIntent = getIntent();
+        uid = myIntent.getStringExtra("uid");
+        lightHead = myIntent.getStringExtra("lightHead");
+        deviceType = myIntent.getStringExtra("deviceType");
+        lat = myIntent.getStringExtra("lat");
+        lng = myIntent.getStringExtra("lng");
+        geoAddress = myIntent.getStringExtra("address");
+
+        // set
+        latView.setText("纬度 " + lat);
+        lngView.setText("经度 " + lng);
+        addView.setText("地址 " + geoAddress);
     }
 
     public void onClick_confirm(View v) {
         Intent myIntent = new Intent(this, PhotoActivity.class);
+        myIntent.putExtra("deviceType", deviceType);
+        myIntent.putExtra("uid", uid);
+        myIntent.putExtra("lightHead", lightHead);
+        myIntent.putExtra("lat", lat);
+        myIntent.putExtra("lng", lng);
+        myIntent.putExtra("address", geoAddress);
         startActivity(myIntent);
 
     }

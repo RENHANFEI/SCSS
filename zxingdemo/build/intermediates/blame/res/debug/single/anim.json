@@ -8,16 +8,8 @@
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/debug/res/anim/left_right_out.xml"
     },
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/bottom_out.xml",
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/anim/bottom_out.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
@@ -32,7 +24,11 @@
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/bottom_in.xml",
+        "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/anim/bottom_in.xml"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_popup_exit.xml"
     },
     {
@@ -40,88 +36,12 @@
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_grow_fade_in_from_bottom.xml"
-    },
-    {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_grow_fade_in_from_bottom.xml"
-    },
-    {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_fade_out.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_popup_exit.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_popup_enter.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_fade_out.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_slide_in_top.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_fade_in.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_slide_in_top.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_fade_in.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_fade_out.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/bottom_in.xml",
-        "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/anim/bottom_in.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Downloads/BGAQRCode-Android/zxingdemo/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_popup_enter.xml"
-    },
-    {
-        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
@@ -132,7 +52,7 @@
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/debug/res/anim/left_right_in.xml"
     },
     {
-        "merged": "/Users/renhanfei/Desktop/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/Users/renhanfei/.android/build-cache/dc400470b2c94da715d57a18b7945f2cf94a772e/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     }
 ]

@@ -13,6 +13,7 @@ import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.widget.ArrayAdapter;
+import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
 
@@ -52,10 +53,21 @@ public class SuccessScanActivity extends FragmentActivity implements
     String geoAddress;
     String lat, lng;
 
+    String uid;
+    String lightHead = "1";
+
+    TextView latView = (TextView) findViewById(R.id.lat_view);
+    TextView lngView = (TextView) findViewById(R.id.lng_view);
+    TextView addView = (TextView) findViewById(R.id.address_view);
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_success_scan);
+
+        Intent myIntent = getIntent();
+        uid = myIntent.getStringExtra("scan_result");
+
 
         // set spinner
         Spinner typeSpinner = (Spinner) findViewById(R.id.light_type);
@@ -65,8 +77,11 @@ public class SuccessScanActivity extends FragmentActivity implements
         typeSpinner.setAdapter(adapterType);
 
         // set text (scanned info)
-        TextView uidView = (TextView) findViewById(R.id.uid);
-        TextView lightHeadView = (TextView) findViewById(R.id.light_head);
+        EditText uidView = (EditText) findViewById(R.id.uid);
+        EditText lightHeadView = (EditText) findViewById(R.id.light_head);
+
+        uidView.setText(uid);
+        lightHeadView.setText(lightHead);
 
         // initializa map & location service
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
@@ -102,18 +117,46 @@ public class SuccessScanActivity extends FragmentActivity implements
 
     public void onClick_adjustLocation(View v) {
 
-        TextView uidView = (TextView) findViewById(R.id.uid);
-        TextView lightHeadView = (TextView) findViewById(R.id.light_head);
+        Spinner typeSpinner = (Spinner) findViewById(R.id.light_type);
+        EditText uidView = (EditText) findViewById(R.id.uid);
+        EditText lightHeadView = (EditText) findViewById(R.id.light_head);
 
-        String uid = uidView.toString();
-        String lightHead = lightHeadView.toString();
+        String deviceType = typeSpinner.getSelectedItem().toString();
+        String uid = uidView.getText().toString();
+        String lightHead = lightHeadView.getText().toString();
+
 
         Intent myIntent = new Intent(this, AdjustLocationActivity.class);
+
+        myIntent.putExtra("deviceType", deviceType);
+        myIntent.putExtra("uid", uid);
+        myIntent.putExtra("lightHead", lightHead);
+        myIntent.putExtra("lat", lat);
+        myIntent.putExtra("lng", lng);
+        myIntent.putExtra("address", geoAddress);
+
         startActivity(myIntent);
     }
 
     public void onClick_nextStep(View v) {
+
+        Spinner typeSpinner = (Spinner) findViewById(R.id.light_type);
+        EditText uidView = (EditText) findViewById(R.id.uid);
+        EditText lightHeadView = (EditText) findViewById(R.id.light_head);
+
+        String deviceType = typeSpinner.getSelectedItem().toString();
+        String uid = uidView.getText().toString();
+        String lightHead = lightHeadView.getText().toString();
+
         Intent myIntent = new Intent(this, PhotoActivity.class);
+
+        myIntent.putExtra("deviceType", deviceType);
+        myIntent.putExtra("uid", uid);
+        myIntent.putExtra("lightHead", lightHead);
+        myIntent.putExtra("lat", lat);
+        myIntent.putExtra("lng", lng);
+        myIntent.putExtra("address", geoAddress);
+
         startActivity(myIntent);
     }
 
@@ -219,6 +262,9 @@ public class SuccessScanActivity extends FragmentActivity implements
             } catch (IOException e) {
                 Log.e("Getting Address: ", "Error : ", e);
             }
+            latView.setText("纬度 " + lat);
+            lngView.setText("经度 " + lng);
+            addView.setText("地址 " + geoAddress);
         }
 
 

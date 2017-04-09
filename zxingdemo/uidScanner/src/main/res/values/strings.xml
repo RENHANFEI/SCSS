@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UID助手</string>
+    <string name="title_activity_login">登录</string>
+    <string name="title_activity_project_list">选择项目</string>
+    <string name="title_edit_concentrator">添加集中器</string>
+    <string name="title_edit_terminal">添加终端</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">用户名</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">该字段不能为空</string>
+</resources>

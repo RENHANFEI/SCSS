@@ -11,6 +11,7 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
 import android.view.Window;
+import android.view.WindowManager;
 import android.widget.Toast;
 
 import cn.bingoogolapple.photopicker.activity.BGAPhotoPickerActivity;
@@ -25,7 +26,10 @@ public class TestScanActivity extends AppCompatActivity implements QRCodeView.De
     private QRCodeView mQRCodeView;
 
     public void onCreate(Bundle savedInstanceState) {
+        //请求窗口特性：无标题
         requestWindowFeature(Window.FEATURE_NO_TITLE);
+        //添加窗口特性：全屏
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test_scan);
         setSupportActionBar((Toolbar) findViewById(R.id.toolbar));
