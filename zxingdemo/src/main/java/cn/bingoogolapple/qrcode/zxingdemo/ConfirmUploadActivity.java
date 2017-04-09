@@ -57,9 +57,9 @@ public class ConfirmUploadActivity extends Activity {
         TextView lngView = (TextView) findViewById(R.id.lng_view);
         TextView addView = (TextView) findViewById(R.id.address_view);
 
-        latView.setText("纬度 " + lat);
-        lngView.setText("经度 " + lng);
-        addView.setText("地址 " + address);
+        latView.setText("纬度  " + lat);
+        lngView.setText("经度  " + lng);
+        addView.setText("地址  " + address);
     }
 
     public void onClick_confirm(View v) {
@@ -82,6 +82,7 @@ public class ConfirmUploadActivity extends Activity {
         myIntent.putExtra("lat", lat);
         myIntent.putExtra("lng", lng);
         myIntent.putExtra("address", address);
+        myIntent.putExtra("source", 1);
         startActivity(myIntent);
     }
 

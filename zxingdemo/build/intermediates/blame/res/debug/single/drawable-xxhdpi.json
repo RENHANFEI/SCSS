@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable-xxhdpi/icon.png",
+        "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/drawable-xxhdpi/scan_icon_scanline.png",
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/drawable-xxhdpi/scan_icon_scanline.png"
     }

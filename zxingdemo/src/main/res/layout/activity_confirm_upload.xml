@@ -39,7 +39,7 @@
             android:layout_marginLeft="10dp"
             android:layout_toRightOf="@id/photo"
             android:background="@drawable/icon_change"
-            android:onClick="onClick_takePhoto"/>
+            android:onClick="onClick_takePhoto" />
     </RelativeLayout>
 
 
@@ -78,7 +78,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:textColor="@android:color/black"
-                    android:textSize="16dp"></Spinner>
+                    android:textSize="14dp"></Spinner>
 
             </LinearLayout>
 
@@ -147,48 +147,53 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
             android:layout_weight="4"
-            android:orientation="vertical"
-            android:layout_marginBottom="5dp">
-            <TextView
-                android:id="@+id/lat_view"
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginRight="20dp"
-                android:layout_weight="1"
-                android:text="@string/lat"
-                android:textColor="@android:color/black"
-                android:textSize="16dp" />
+            android:orientation="vertical">
+
 
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
-                android:layout_weight="1">
+                android:layout_weight="2">
 
-                <TextView
-                    android:id="@+id/lng_view"
+                <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:text="@string/lng"
-                    android:textColor="@android:color/black"
-                    android:textSize="16dp" />
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/lat_view"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="@string/lat"
+                        android:textColor="@android:color/black"
+                        android:textSize="16dp" />
+
+                    <TextView
+                        android:id="@+id/lng_view"
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="@string/lng"
+                        android:textColor="@android:color/black"
+                        android:textSize="16dp" />
+                </LinearLayout>
 
                 <Button
                     android:layout_width="30dp"
                     android:layout_height="30dp"
-                    android:layout_alignParentBottom="true"
+                    android:layout_centerVertical="true"
                     android:layout_marginRight="30dp"
                     android:layout_alignParentRight="true"
                     android:background="@drawable/icon_change"
                     android:onClick="onClick_adjust"/>
 
 
-
             </RelativeLayout>
-
 
 
             <TextView
@@ -219,7 +224,7 @@
             android:onClick="onClick_back"
             android:text="@string/back_btn"
             android:textColor="@color/colorPrimaryDark"
-            android:textSize="18dp"/>
+            android:textSize="18dp" />
 
 
         <Button

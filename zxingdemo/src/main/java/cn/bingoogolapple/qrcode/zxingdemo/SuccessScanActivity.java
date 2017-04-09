@@ -56,9 +56,9 @@ public class SuccessScanActivity extends FragmentActivity implements
     String uid;
     String lightHead = "1";
 
-    TextView latView = (TextView) findViewById(R.id.lat_view);
-    TextView lngView = (TextView) findViewById(R.id.lng_view);
-    TextView addView = (TextView) findViewById(R.id.address_view);
+    TextView latView;
+    TextView lngView;
+    TextView addView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -66,7 +66,7 @@ public class SuccessScanActivity extends FragmentActivity implements
         setContentView(R.layout.activity_success_scan);
 
         Intent myIntent = getIntent();
-        uid = myIntent.getStringExtra("scan_result");
+        uid = myIntent.getStringExtra("scanResult");
 
 
         // set spinner
@@ -82,6 +82,10 @@ public class SuccessScanActivity extends FragmentActivity implements
 
         uidView.setText(uid);
         lightHeadView.setText(lightHead);
+
+        latView = (TextView) findViewById(R.id.lat_view);
+        lngView = (TextView) findViewById(R.id.lng_view);
+        addView = (TextView) findViewById(R.id.address_view);
 
         // initializa map & location service
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
@@ -134,7 +138,9 @@ public class SuccessScanActivity extends FragmentActivity implements
         myIntent.putExtra("lat", lat);
         myIntent.putExtra("lng", lng);
         myIntent.putExtra("address", geoAddress);
+        myIntent.putExtra("source", 0);
 
+        finish();
         startActivity(myIntent);
     }
 
@@ -157,6 +163,7 @@ public class SuccessScanActivity extends FragmentActivity implements
         myIntent.putExtra("lng", lng);
         myIntent.putExtra("address", geoAddress);
 
+        finish();
         startActivity(myIntent);
     }
 
@@ -262,9 +269,9 @@ public class SuccessScanActivity extends FragmentActivity implements
             } catch (IOException e) {
                 Log.e("Getting Address: ", "Error : ", e);
             }
-            latView.setText("纬度 " + lat);
-            lngView.setText("经度 " + lng);
-            addView.setText("地址 " + geoAddress);
+            latView.setText("纬度  " + lat);
+            lngView.setText("经度  " + lng);
+            addView.setText("地址  " + geoAddress);
         }
 
 

@@ -20,6 +20,10 @@
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/icon.png",
+        "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/icon.png"
+    },
+    {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xxhdpi/custom_scan_line.png",
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/mipmap-xxhdpi/custom_scan_line.png"
     }

@@ -2,5 +2,9 @@
     {
         "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/renhanfei/Documents/SCSS/zxingdemo/build/intermediates/res/merged/debug/mipmap-xhdpi/icon.png",
+        "source": "/Users/renhanfei/Documents/SCSS/zxingdemo/src/main/res/mipmap-xhdpi/icon.png"
     }
 ]

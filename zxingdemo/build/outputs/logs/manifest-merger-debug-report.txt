@@ -120,7 +120,7 @@ MERGED from [com.android.support:support-compat:25.3.1] /Users/renhanfei/.androi
 	android:allowBackup
 		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:37:9-35
 	android:icon
-		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:38:9-43
+		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:38:9-36
 	android:theme
 		ADDED from /Users/renhanfei/Documents/SCSS/zxingdemo/src/main/AndroidManifest.xml:40:9-40
 activity#cn.bingoogolapple.qrcode.zxingdemo.LoginActivity

@@ -78,7 +78,7 @@ public class TestScanActivity extends AppCompatActivity implements QRCodeView.De
         mQRCodeView.stopCamera();
 
         Intent myIntent = new Intent(this, SuccessScanActivity.class);
-        myIntent.putExtra("scan_result", result);
+        myIntent.putExtra("scanResult", result);
         startActivity(myIntent);
         overridePendingTransition(R.anim.bottom_in,0);
         //mQRCodeView.startSpot();

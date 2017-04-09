@@ -56,6 +56,8 @@ public class AdjustLocationActivity extends FragmentActivity implements
     TextView lngView;
     TextView addView;
 
+    int source;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -92,14 +94,29 @@ public class AdjustLocationActivity extends FragmentActivity implements
         lat = myIntent.getStringExtra("lat");
         lng = myIntent.getStringExtra("lng");
         geoAddress = myIntent.getStringExtra("address");
+        source = myIntent.getIntExtra("source", 0);
+
 
         // set
-        latView.setText("纬度 " + lat);
-        lngView.setText("经度 " + lng);
-        addView.setText("地址 " + geoAddress);
+        latView = (TextView) findViewById(R.id.lat_view);
+        lngView = (TextView)findViewById(R.id.lng_view);
+        addView = (TextView)findViewById(R.id.address_view);
+
+        latView.setText("纬度  " + lat);
+        lngView.setText("经度  " + lng);
+        addView.setText("地址  " + geoAddress);
     }
 
     public void onClick_confirm(View v) {
+
+        if (source == 0)
+            gotoPhoto();
+        else
+            gotoUpload();
+
+    }
+
+    public void gotoPhoto() {
         Intent myIntent = new Intent(this, PhotoActivity.class);
         myIntent.putExtra("deviceType", deviceType);
         myIntent.putExtra("uid", uid);
@@ -108,8 +125,19 @@ public class AdjustLocationActivity extends FragmentActivity implements
         myIntent.putExtra("lng", lng);
         myIntent.putExtra("address", geoAddress);
         startActivity(myIntent);
-
     }
+
+    public void gotoUpload() {
+        Intent myIntent = new Intent(this, ConfirmUploadActivity.class);
+        myIntent.putExtra("deviceType", deviceType);
+        myIntent.putExtra("uid", uid);
+        myIntent.putExtra("lightHead", lightHead);
+        myIntent.putExtra("lat", lat);
+        myIntent.putExtra("lng", lng);
+        myIntent.putExtra("address", geoAddress);
+        startActivity(myIntent);
+    }
+
 
     public void onClick_cancel(View v) {
         finish();
